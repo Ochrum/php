@@ -12,8 +12,22 @@ table {
             margin: 0;
             padding: 10px 15px;
             text-align: center;
+            font-weight: bold;
         }
 
         .header {
             background-color: rgba(182, 58, 240, 0.685);
+        }
+
+        sub{
+            color:lightgreen
+        }
+
+        button{
+            border: 2px solid red;
+            padding: 2px;
+            margin: 5px;
+            background-color: bisque;
+            font-weight: bold;
+
         }
